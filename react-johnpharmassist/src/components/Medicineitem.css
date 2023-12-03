@@ -1,0 +1,4 @@
+.cards__item__link:hover {
+  background-color: rgb(196, 194, 194); /* Change the color as needed */
+  transition: background-color 0.3s ease-in-out;
+}
